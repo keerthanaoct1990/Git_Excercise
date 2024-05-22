@@ -1,0 +1,3 @@
+Describe your goals, and Blueprint will suggest a workflow design instantly. 
+Build and edit your workflow to suit your business needs, and then import your Blueprint into 
+Pega Infinity™ to instantly turbocharge development.
